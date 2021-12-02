@@ -1,0 +1,213 @@
+
+ ============================================ PROCESS FOLD 1...
+
+ ---------- Classifier: Random Forest, train 1280 and test 193
+Training Confusion Matrix:
+[[638   0]
+ [  0 642]]
+Training Acc.=1.0
+
+Training True Negative: 638
+
+Training False Positive: 0
+
+Training False Negative: 0
+
+Training True Positive: 642
+
+Training Specificity: 1.0
+
+Training Sensitivity: 1.0
+
+Training AUC: 1.0
+
+Testing Confusion Matrix:
+[[151   4]
+ [ 32   6]]
+Testing Acc.=0.81
+
+Testing True Negative: 151
+
+Testing False Positive: 4
+
+Testing False Negative: 32
+
+Testing True Positive: 6
+
+Testing Specificity: 0.9741935483870968
+
+Testing Sensitivity: 0.15789473684210525
+
+Testing AUC: 0.566044142614601
+
+ ============================================ PROCESS FOLD 2...
+
+ ---------- Classifier: Random Forest, train 1292 and test 193
+Training Confusion Matrix:
+[[639   0]
+ [  0 653]]
+Training Acc.=1.0
+
+Training True Negative: 639
+
+Training False Positive: 0
+
+Training False Negative: 0
+
+Training True Positive: 653
+
+Training Specificity: 1.0
+
+Training Sensitivity: 1.0
+
+Training AUC: 1.0
+
+Testing Confusion Matrix:
+[[147   7]
+ [ 30   9]]
+Testing Acc.=0.81
+
+Testing True Negative: 147
+
+Testing False Positive: 7
+
+Testing False Negative: 30
+
+Testing True Positive: 9
+
+Testing Specificity: 0.9545454545454546
+
+Testing Sensitivity: 0.23076923076923078
+
+Testing AUC: 0.5926573426573427
+
+ ============================================ PROCESS FOLD 3...
+
+ ---------- Classifier: Random Forest, train 1287 and test 193
+Training Confusion Matrix:
+[[633   0]
+ [  0 654]]
+Training Acc.=1.0
+
+Training True Negative: 633
+
+Training False Positive: 0
+
+Training False Negative: 0
+
+Training True Positive: 654
+
+Training Specificity: 1.0
+
+Training Sensitivity: 1.0
+
+Training AUC: 1.0
+
+Testing Confusion Matrix:
+[[150  10]
+ [ 24   9]]
+Testing Acc.=0.82
+
+Testing True Negative: 150
+
+Testing False Positive: 10
+
+Testing False Negative: 24
+
+Testing True Positive: 9
+
+Testing Specificity: 0.9375
+
+Testing Sensitivity: 0.2727272727272727
+
+Testing AUC: 0.6051136363636364
+
+ ============================================ PROCESS FOLD 4...
+
+ ---------- Classifier: Random Forest, train 1260 and test 193
+Training Confusion Matrix:
+[[629   0]
+ [  0 631]]
+Training Acc.=1.0
+
+Training True Negative: 629
+
+Training False Positive: 0
+
+Training False Negative: 0
+
+Training True Positive: 631
+
+Training Specificity: 1.0
+
+Training Sensitivity: 1.0
+
+Training AUC: 1.0
+
+Testing Confusion Matrix:
+[[156   8]
+ [ 22   7]]
+Testing Acc.=0.84
+
+Testing True Negative: 156
+
+Testing False Positive: 8
+
+Testing False Negative: 22
+
+Testing True Positive: 7
+
+Testing Specificity: 0.9512195121951219
+
+Testing Sensitivity: 0.2413793103448276
+
+Testing AUC: 0.5962994112699748
+
+ ============================================ PROCESS FOLD 5...
+
+ ---------- Classifier: Random Forest, train 1262 and test 193
+Training Confusion Matrix:
+[[633   0]
+ [  0 629]]
+Training Acc.=1.0
+
+Training True Negative: 633
+
+Training False Positive: 0
+
+Training False Negative: 0
+
+Training True Positive: 629
+
+Training Specificity: 1.0
+
+Training Sensitivity: 1.0
+
+Training AUC: 1.0
+
+Testing Confusion Matrix:
+[[153   7]
+ [ 20  13]]
+Testing Acc.=0.86
+
+Testing True Negative: 153
+
+Testing False Positive: 7
+
+Testing False Negative: 20
+
+Testing True Positive: 13
+
+Testing Specificity: 0.95625
+
+Testing Sensitivity: 0.3939393939393939
+
+Testing AUC: 0.675094696969697
+
+
+ ================================== FINAL REPORT: Random Forest
+ +ROC_AUC_SCORE:0.6070418459750504
+ +ACC:0.8300518134715025
+ +F1_SCORE_WEIGHTED:0.8028320466052806
+ +F1_SCORE_MACRO:0.6243286289750881
+
